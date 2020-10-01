@@ -1,4 +1,4 @@
-# Flight - Prices Scraper
+# Flight - Prices Scraper - A brilliant project 
 
 As a part of my B.Tech project, I am working on a predictive model to forecast flight prices in India. For the same, I required to collect data and I developed this automated script to do the same.
 
